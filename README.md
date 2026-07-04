@@ -2,6 +2,7 @@
 
 ## Datos personales
 
+Nombre: [Aonis Ruben Nevarez Cusme]
 Nombre: [Adonis Ruben Nevarez Cusme]
 Carrera: [Tecnologias de la informacion]
 Semestre: [Quinto semestre]
@@ -20,3 +21,15 @@ Este repositorio fue creado como parte de una práctica académica para aprender
 - Crear ramas de trabajo.
 - Subir cambios a GitHub.
 - Crear un Pull Request.
+
+## Herramientas utilizadas
+
+- Git
+- GitHub
+- Visual Studio Code o editor de texto
+- Navegador web
+
+## Importancia de GitHub en la formación profesional
+
+GitHub es importante porque permite organizar proyectos, controlar versiones, evidenciar avances y colaborar con otros desarrolladores.
+
