@@ -3,6 +3,7 @@
 ## Datos personales
 
 Nombre: [Aonis Ruben Nevarez Cusme]
+Nombre: [Adonis Ruben Nevarez Cusme]
 Carrera: [Tecnologias de la informacion]
 Semestre: [Quinto semestre]
 Asignatura: [Ingenieria de Software ll]
