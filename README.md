@@ -2,10 +2,10 @@
 
 ## Datos personales
 
-Nombre: [Escribe tu nombre completo]
-Carrera: [Escribe tu carrera]
-Semestre: [Escribe tu semestre]
-Asignatura: [Escribe la asignatura]
+Nombre: [Adonis Ruben Nevarez Cusme]
+Carrera: [Tecnologias de la informacion]
+Semestre: [Quinto semestre]
+Asignatura: [Ingenieria de Software ll]
 
 ## Descripción del proyecto
 
